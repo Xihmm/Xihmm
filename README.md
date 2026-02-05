@@ -10,13 +10,13 @@ I am a product-minded builder who loves bridging the gap between complex technic
 **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white)
 
 **AI & Data Science:**
-- [cite_start]**Models & Frameworks:** PyTorch, TensorFlow, Gemini API, Scikit-learn [cite: 15, 16, 39]
-- [cite_start]**Specialties:** LLM-based data ingestion, Recommendation Systems (Ranking/Scoring), Topological Sorting [cite: 31, 39, 41]
+- **Models & Frameworks:** PyTorch, TensorFlow, Gemini API, Scikit-learn 
+- **Specialties:** LLM-based data ingestion, Recommendation Systems (Ranking/Scoring), Topological Sorting
 
 **Full-Stack & Infra:**
-- [cite_start]**Frontend:** React Native, React.js, Vue.js [cite: 15, 24]
-- [cite_start]**Backend:** Node.js, Flask, FastAPI, Spring Boot [cite: 15, 40]
-- [cite_start]**Cloud/DevOps:** AWS (Lambda, EC2), GCP, Docker, Kubernetes, CI/CD [cite: 14, 16]
+- **Frontend:** React Native, React.js, Vue.js
+- **Backend:** Node.js, Flask, FastAPI, Spring Boot 
+- **Cloud/DevOps:** AWS (Lambda, EC2), GCP, Docker, Kubernetes, CI/CD 
 ---
 
 ### 🏗 Featured Projects
@@ -36,8 +36,8 @@ I am a product-minded builder who loves bridging the gap between complex technic
 
 #### 📈 [Poizon Global (DeWu)](https://github.com/Xihmm) | ML Recommendation Intern
 *Jun 2024 - Aug 2024*
-- [cite_start]**Impact:** Designed an ML-based system to identify high-potential merchants, reducing manual evaluation time by **70%**[cite: 31, 33].
-- [cite_start]**PM Mindset:** Collaborated with 10+ engineers to deliver real-time KPI dashboards and tracked model-aligned success metrics (NPS, GMV ramp).
+- **Impact:** Designed an ML-based system to identify high-potential merchants, reducing manual evaluation time by **70%**
+- **PM Mindset:** Collaborated with 10+ engineers to deliver real-time KPI dashboards and tracked model-aligned success metrics (NPS, GMV ramp).
 
 ---
 
