@@ -1,6 +1,6 @@
 # Hi there! I'm Ruby (Ziqing) Gong 👋 
 
-### 🎓 CS & Finance @ University of Rochester | GPA 3.97 | Aspiring AI PM & SWE
+### 🎓 CS & Finance @ University of Rochester | GPA 3.93 | Aspiring AI PM & SWE
 I am a product-minded builder who loves bridging the gap between complex technical architectures and intuitive user experiences. Currently seeking **2026 Summer Internship** opportunities in AI Product Management and Software Engineering.
 
 ---
