@@ -6,12 +6,11 @@ I am a product-minded builder who loves bridging the gap between complex technic
 ---
 
 ### 🛠 Tech & Tools
-### 💻 Technical Arsenal
 **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white)
 
 **AI & Data Science:**
 - **Models & Frameworks:** PyTorch, TensorFlow, Gemini API, Scikit-learn 
-- **Specialties:** LLM-based data ingestion, Recommendation Systems (Ranking/Scoring), Topological Sorting
+- **Specialties:** LLM-based data ingestion, Topological Sorting
 
 **Full-Stack & Infra:**
 - **Frontend:** React Native, React.js, Vue.js
@@ -34,10 +33,10 @@ I am a product-minded builder who loves bridging the gap between complex technic
 - Designed and implemented the backend architecture using Python (Flask).
 - Facilitated seamless data flow between front-end React components and back-end services.
 
-#### 📈 [Poizon Global (DeWu)](https://github.com/Xihmm) | ML Recommendation Intern
+#### 📈 [Poizon Global (DeWu)] | Business Development & Operations Intern – Software Engineering Focus
 *Jun 2024 - Aug 2024*
 - **Impact:** Designed an ML-based system to identify high-potential merchants, reducing manual evaluation time by **70%**
-- **PM Mindset:** Collaborated with 10+ engineers to deliver real-time KPI dashboards and tracked model-aligned success metrics (NPS, GMV ramp).
+- **PM Mindset:** Collaborated with 10+ engineers and data scientists to deliver real-time KPI dashboards and tracked model-aligned success metrics (NPS, GMV ramp).
 
 ---
 
